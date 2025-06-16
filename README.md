@@ -20,7 +20,7 @@ Explore the model's predictions and insights.
 
 ## Install Necessary Modules:
 
-Open your ![Anaconda](https://img.shields.io/badge/Anaconda-brightgreen?logo=anaconda) propmt and type and run the following command (individually): 
+Open your ![Anaconda](https://img.shields.io/badge/Anaconda-brightgreen?logo=anaconda) prompt and type and run the following command (individually): 
 - ```
   pip install numpy
 - ```
