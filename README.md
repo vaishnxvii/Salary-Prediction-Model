@@ -1,4 +1,4 @@
-# Salary-Prediction-Model
+# Salary Prediction Model
 
 ## Description:
 Welcome to the Salary Predictor Model Repository by Vaishnavi Gupta. This project uses advanced machine learning to redefine salary determination for new hires at TechWorks Consulting. Consideration of factors like education, experience, role, previous compensation, and academic records ensures fair and competitive salary predictions.
