@@ -80,6 +80,10 @@ Standard scaling applied where necessary. GridSearchCV optimized hyperparameters
 
 ## 📊 Project Output 
 #### Google Colab Project Link : https://colab.research.google.com/github/vaishnxvii/Salary-Prediction-Model/blob/main/Salary_Prediction_Model_.ipynb
+Preview
+![Salary prediction model ss](https://github.com/user-attachments/assets/f9f45ee5-b54e-4f42-891b-3a38ff53d046)
+
+---
 
 ## Install Necessary Modules:
 
